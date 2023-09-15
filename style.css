@@ -52,7 +52,9 @@ hr {
   width: 700px;
 }
 
-#preview1, #preview2, #preview3 {
+#preview1,
+#preview2,
+#preview3 {
   font-size: 18px;
   padding: 5px 20px;
   border-radius: 5px;
